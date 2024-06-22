@@ -1,0 +1,12 @@
+# ninja log v6
+3	53	7407183284264109	C:/Programming/Lab7_programming/ctest/build/CMakeFiles/cmake.verify_globs	4336d1217d1b3669
+55	505	7407183284775141	tests/CMakeFiles/test_1.dir/test_1.cpp.obj	446245f5f60c7203
+60	507	7407183284835111	tests/CMakeFiles/test_2.dir/test_2.cpp.obj	292a20c647680389
+65	620	7407183284875097	tests/CMakeFiles/test_3.dir/test_3.cpp.obj	124c182cafb27211
+58	1314	7407183284805115	tests/CMakeFiles/test_1.dir/__/example.cpp.obj	a15dd304828548c4
+67	1319	7407183284895074	tests/CMakeFiles/test_3.dir/__/example.cpp.obj	5d5cec58e90c232e
+63	1432	7407183284855098	tests/CMakeFiles/test_2.dir/__/example.cpp.obj	940860d013dbfd0e
+1316	1598	7407183297387920	tests/test_1.exe	1c59939747f4199a
+1320	1615	7407183297417913	tests/test_3.exe	91673b0c9329fb5f
+1434	1665	7407183298567262	tests/test_2.exe	e171df43d3cc60be
+6	63	7407183399060186	C:/Programming/Lab7_programming/ctest/build/CMakeFiles/cmake.verify_globs	4336d1217d1b3669

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "C:/Programming/Lab7_programming/gtest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Programming/Lab7_programming/gtest -isystem C:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googletest/include -isystem C:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googletest -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o gtests\\CMakeFiles\\tests.dir\\tests.cpp.obj -c C:\\Programming\\Lab7_programming\\gtest\\gtests\\tests.cpp",
+  "file": "C:\\Programming\\Lab7_programming\\gtest\\gtests\\tests.cpp",
+  "output": "gtests\\CMakeFiles\\tests.dir\\tests.cpp.obj"
+},
+{
+  "directory": "C:/Programming/Lab7_programming/gtest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Programming/Lab7_programming/gtest -isystem C:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googletest/include -isystem C:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googletest -g -std=gnu++17 -Wall -Wextra -pedantic -Werror -g -o gtests\\CMakeFiles\\tests.dir\\__\\example.cpp.obj -c C:\\Programming\\Lab7_programming\\gtest\\example.cpp",
+  "file": "C:\\Programming\\Lab7_programming\\gtest\\example.cpp",
+  "output": "gtests\\CMakeFiles\\tests.dir\\__\\example.cpp.obj"
+},
+{
+  "directory": "C:/Programming/Lab7_programming/gtest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googlemock/include -IC:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googlemock -isystem C:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googletest/include -isystem C:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -pedantic -Werror -g -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Programming\\Lab7_programming\\gtest\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "C:\\Programming\\Lab7_programming\\gtest\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Programming/Lab7_programming/gtest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem C:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googlemock/include -isystem C:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googlemock -isystem C:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googletest/include -isystem C:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -pedantic -Werror -g -o _deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Programming\\Lab7_programming\\gtest\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "C:\\Programming\\Lab7_programming\\gtest\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "output": "_deps\\googletest-build\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Programming/Lab7_programming/gtest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -IC:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googletest/include -IC:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -pedantic -Werror -g -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Programming\\Lab7_programming\\gtest\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:\\Programming\\Lab7_programming\\gtest\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Programming/Lab7_programming/gtest/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -isystem C:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googletest/include -isystem C:/Programming/Lab7_programming/gtest/build/_deps/googletest-src/googletest -g -std=c++17 -Wall -Wshadow -Werror -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -Wall -Wextra -pedantic -Werror -g -o _deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Programming\\Lab7_programming\\gtest\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "C:\\Programming\\Lab7_programming\\gtest\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "output": "_deps\\googletest-build\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj"
+}
+]

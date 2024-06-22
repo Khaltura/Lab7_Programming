@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Programming/Lab7_programming/assert/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\assert.dir\\main.cpp.obj -c C:\\Programming\\Lab7_programming\\assert\\main.cpp",
+  "file": "C:\\Programming\\Lab7_programming\\assert\\main.cpp",
+  "output": "CMakeFiles\\assert.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Programming/Lab7_programming/assert/build",
+  "command": "C:\\msys64\\mingw64\\bin\\c++.exe -g -o CMakeFiles\\assert.dir\\example.cpp.obj -c C:\\Programming\\Lab7_programming\\assert\\example.cpp",
+  "file": "C:\\Programming\\Lab7_programming\\assert\\example.cpp",
+  "output": "CMakeFiles\\assert.dir\\example.cpp.obj"
+}
+]

@@ -1,0 +1,9 @@
+C:/Programming/Lab7_programming/ctest/build/CMakeFiles/test.dir
+C:/Programming/Lab7_programming/ctest/build/CMakeFiles/edit_cache.dir
+C:/Programming/Lab7_programming/ctest/build/CMakeFiles/rebuild_cache.dir
+C:/Programming/Lab7_programming/ctest/build/tests/CMakeFiles/test_1.dir
+C:/Programming/Lab7_programming/ctest/build/tests/CMakeFiles/test_2.dir
+C:/Programming/Lab7_programming/ctest/build/tests/CMakeFiles/test_3.dir
+C:/Programming/Lab7_programming/ctest/build/tests/CMakeFiles/test.dir
+C:/Programming/Lab7_programming/ctest/build/tests/CMakeFiles/edit_cache.dir
+C:/Programming/Lab7_programming/ctest/build/tests/CMakeFiles/rebuild_cache.dir
